@@ -1,0 +1,15 @@
+series: Basic OpenGL with GLFW
+title: Gaussian Blur
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Apply a blur effect using a post process technique.
+language: C++
+tags:
+  - Graphics
+  - Math
+extra_resources:
+connections:
+  - series: Basic OpenGL with GLFW
+    title: Rendering to Textures
